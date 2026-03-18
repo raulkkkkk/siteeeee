@@ -1,3 +1,4 @@
+
 /* Configurações Gerais */
 * {
     margin: 0;
@@ -25,7 +26,7 @@ h1, h2, .logo
 header {
     height: 80vh;
     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), 
-                url('https://images.alphacoders.com/130/1306352.png'); /* Imagem de fundo temática */
+                url('/tmp/guest-d15eem/Downloads/images.jpeg'); /* Imagem de fundo temática */
     background-size: cover;
     background-position: center;
     color: rgb(206, 142, 223);
@@ -107,7 +108,7 @@ h2 {
     padding: 20px;
     border-radius: 20px;
     box-shadow: 0 10px 20px rgba(0,0,0,0.05);
-    transition: transform 0.4s ease;
+    transition:transform 0.4s ease;
 }
 
 .album-card:hover {
